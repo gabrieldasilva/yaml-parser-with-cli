@@ -1,0 +1,13 @@
+---
+# This is a full line comment
+  foo: bar # This is a comment, too
+  pleh: help
+  stuff:
+    foo: bar
+    bar: foo
+  decimal: 123
+  hexa: 0x12d4
+  oct: 023332
+  string: this is a normal string
+  nullable: null
+  nullable2: ~
